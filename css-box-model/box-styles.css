@@ -7,4 +7,13 @@ em, strong {
     display:inline;
 }
 
-/*Content, padding, border, and margin next*/
+h1 {
+    padding: 50px;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-left:10px;
+    padding-right:10px;
+}
